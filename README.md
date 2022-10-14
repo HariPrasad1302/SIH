@@ -27,8 +27,8 @@ Tech Stacks:
                      Frontend      -    HTML,CSS,Bootstrap                   
                      Framework     -    Flask
                      Language      -    Python
-                     Modules       -    Speech_recognition, NLLB(No language left behind), PyDub, speech_recognition, 
-                                      gTTS, moviepy, pytesseract.
+                     Modules       -    Speech_recognition, NLLB(No language left behind), PyDub, 
+                                       speech_recognition, gTTS, moviepy, pytesseract.
 
 
 
